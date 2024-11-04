@@ -1,0 +1,1397 @@
+[
+    {
+        "start_x": 215858,
+        "start_y": -112638,
+        "text_content": "MTZ40H2/3P MTZ5.0X +COM + I/O+\\U+901A\\U+4FE1",
+        "text_n": 141,
+        "id": [
+            "6B7F9D"
+        ]
+    },
+    {
+        "start_x": 215896,
+        "start_y": -112638,
+        "text_content": "NSX400H/MIC/3P",
+        "text_n": 45,
+        "id": [
+            "6B1CDE"
+        ]
+    },
+    {
+        "start_x": 215903,
+        "start_y": -113047,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 72,
+        "id": [
+            "6B2450"
+        ]
+    },
+    {
+        "start_x": 215924,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 54,
+        "id": [
+            "6B1CE7"
+        ]
+    },
+    {
+        "start_x": 215944,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 46,
+        "id": [
+            "6B1CDF"
+        ]
+    },
+    {
+        "start_x": 215964,
+        "start_y": -113047,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 69,
+        "id": [
+            "6B244B"
+        ]
+    },
+    {
+        "start_x": 215968,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 47,
+        "id": [
+            "6B1CE0"
+        ]
+    },
+    {
+        "start_x": 215986,
+        "start_y": -113047,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 79,
+        "id": [
+            "6B250E"
+        ]
+    },
+    {
+        "start_x": 215993,
+        "start_y": -112638,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 48,
+        "id": [
+            "6B1CE1"
+        ]
+    },
+    {
+        "start_x": 216008,
+        "start_y": -113047,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 68,
+        "id": [
+            "6B244A"
+        ]
+    },
+    {
+        "start_x": 216023,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 51,
+        "id": [
+            "6B1CE4"
+        ]
+    },
+    {
+        "start_x": 216033,
+        "start_y": -113047,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 71,
+        "id": [
+            "6B244D"
+        ]
+    },
+    {
+        "start_x": 216050,
+        "start_y": -112638,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 55,
+        "id": [
+            "6B1D3D"
+        ]
+    },
+    {
+        "start_x": 216054,
+        "start_y": -113047,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 74,
+        "id": [
+            "6B2475"
+        ]
+    },
+    {
+        "start_x": 216076,
+        "start_y": -113047,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 75,
+        "id": [
+            "6B2487"
+        ]
+    },
+    {
+        "start_x": 216077,
+        "start_y": -112638,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 56,
+        "id": [
+            "6B1D4F"
+        ]
+    },
+    {
+        "start_x": 216100,
+        "start_y": -113047,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 77,
+        "id": [
+            "6B24C9"
+        ]
+    },
+    {
+        "start_x": 216103,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 60,
+        "id": [
+            "6B1D7F"
+        ]
+    },
+    {
+        "start_x": 216124,
+        "start_y": -113047,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 76,
+        "id": [
+            "6B24B7"
+        ]
+    },
+    {
+        "start_x": 216127,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 59,
+        "id": [
+            "6B1D7B"
+        ]
+    },
+    {
+        "start_x": 216148,
+        "start_y": -113047,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 70,
+        "id": [
+            "6B244C"
+        ]
+    },
+    {
+        "start_x": 216151,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 58,
+        "id": [
+            "6B1D77"
+        ]
+    },
+    {
+        "start_x": 216169,
+        "start_y": -113047,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 67,
+        "id": [
+            "6B2449"
+        ]
+    },
+    {
+        "start_x": 216171,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 49,
+        "id": [
+            "6B1CE2"
+        ]
+    },
+    {
+        "start_x": 216192,
+        "start_y": -113047,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 66,
+        "id": [
+            "6B2448"
+        ]
+    },
+    {
+        "start_x": 216195,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 63,
+        "id": [
+            "6B1DAE"
+        ]
+    },
+    {
+        "start_x": 216213,
+        "start_y": -113047,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 65,
+        "id": [
+            "6B2447"
+        ]
+    },
+    {
+        "start_x": 216219,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 50,
+        "id": [
+            "6B1CE3"
+        ]
+    },
+    {
+        "start_x": 216238,
+        "start_y": -113047,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 73,
+        "id": [
+            "6B2451"
+        ]
+    },
+    {
+        "start_x": 216247,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 57,
+        "id": [
+            "6B1D6D"
+        ]
+    },
+    {
+        "start_x": 216257,
+        "start_y": -113047,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 64,
+        "id": [
+            "6B2446"
+        ]
+    },
+    {
+        "start_x": 216271,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 52,
+        "id": [
+            "6B1CE5"
+        ]
+    },
+    {
+        "start_x": 216278,
+        "start_y": -113047,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 78,
+        "id": [
+            "6B24EF"
+        ]
+    },
+    {
+        "start_x": 216294,
+        "start_y": -112638,
+        "text_content": "NSX1060H/TMD/3P",
+        "text_n": 53,
+        "id": [
+            "6B1CE6"
+        ]
+    },
+    {
+        "start_x": 216473,
+        "start_y": -113048,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 153,
+        "id": [
+            "6B8425"
+        ]
+    },
+    {
+        "start_x": 216494,
+        "start_y": -113048,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 152,
+        "id": [
+            "6B8424"
+        ]
+    },
+    {
+        "start_x": 216515,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 39,
+        "id": [
+            "6B199C"
+        ]
+    },
+    {
+        "start_x": 216516,
+        "start_y": -113048,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 151,
+        "id": [
+            "6B8423"
+        ]
+    },
+    {
+        "start_x": 216536,
+        "start_y": -112638,
+        "text_content": "NSX400H/MIC/3P",
+        "text_n": 62,
+        "id": [
+            "6B1D9C"
+        ]
+    },
+    {
+        "start_x": 216537,
+        "start_y": -113048,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 150,
+        "id": [
+            "6B8422"
+        ]
+    },
+    {
+        "start_x": 216560,
+        "start_y": -113048,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 149,
+        "id": [
+            "6B8421"
+        ]
+    },
+    {
+        "start_x": 216560,
+        "start_y": -112638,
+        "text_content": "NSX400H/MIC/3P",
+        "text_n": 31,
+        "id": [
+            "6B1994"
+        ]
+    },
+    {
+        "start_x": 216581,
+        "start_y": -113048,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 148,
+        "id": [
+            "6B8420"
+        ]
+    },
+    {
+        "start_x": 216585,
+        "start_y": -112638,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 32,
+        "id": [
+            "6B1995"
+        ]
+    },
+    {
+        "start_x": 216603,
+        "start_y": -113048,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 147,
+        "id": [
+            "6B841F"
+        ]
+    },
+    {
+        "start_x": 216615,
+        "start_y": -112638,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 35,
+        "id": [
+            "6B1998"
+        ]
+    },
+    {
+        "start_x": 216624,
+        "start_y": -113048,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 154,
+        "id": [
+            "6B8426"
+        ]
+    },
+    {
+        "start_x": 216642,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 40,
+        "id": [
+            "6B19EE"
+        ]
+    },
+    {
+        "start_x": 216646,
+        "start_y": -113048,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 146,
+        "id": [
+            "6B841E"
+        ]
+    },
+    {
+        "start_x": 216664,
+        "start_y": -113047,
+        "text_content": "MTZ40H2/3P MTZ5.0X +COM + I/O+\\U+901A\\U+4FE1",
+        "text_n": 145,
+        "id": [
+            "6B824E"
+        ]
+    },
+    {
+        "start_x": 216668,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 61,
+        "id": [
+            "6B1D85"
+        ]
+    },
+    {
+        "start_x": 216695,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 44,
+        "id": [
+            "6B1A40"
+        ]
+    },
+    {
+        "start_x": 216697,
+        "start_y": -113047,
+        "text_content": "MTZ20H2/3P MTZ5.0X +COM + I/O+\\U+901A\\U+4FE1",
+        "text_n": 144,
+        "id": [
+            "6B824C"
+        ]
+    },
+    {
+        "start_x": 216719,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 43,
+        "id": [
+            "6B1A3C"
+        ]
+    },
+    {
+        "start_x": 216743,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 42,
+        "id": [
+            "6B1A38"
+        ]
+    },
+    {
+        "start_x": 216763,
+        "start_y": -112638,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 33,
+        "id": [
+            "6B1996"
+        ]
+    },
+    {
+        "start_x": 216791,
+        "start_y": -112638,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 36,
+        "id": [
+            "6B1999"
+        ]
+    },
+    {
+        "start_x": 216811,
+        "start_y": -112638,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 34,
+        "id": [
+            "6B1997"
+        ]
+    },
+    {
+        "start_x": 216833,
+        "start_y": -113047,
+        "text_content": "MTZ40H2/3P MTZ6.0X +COM + I/O+\\U+901A\\U+4FE1",
+        "text_n": 142,
+        "id": [
+            "6B7FE5"
+        ]
+    },
+    {
+        "start_x": 216839,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 41,
+        "id": [
+            "6B1A20"
+        ]
+    },
+    {
+        "start_x": 216863,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 37,
+        "id": [
+            "6B199A"
+        ]
+    },
+    {
+        "start_x": 216878,
+        "start_y": -112972,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 143,
+        "id": [
+            "6B8058"
+        ]
+    },
+    {
+        "start_x": 216887,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 38,
+        "id": [
+            "6B199B"
+        ]
+    },
+    {
+        "start_x": 217058,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 30,
+        "id": [
+            "6B172A"
+        ]
+    },
+    {
+        "start_x": 217082,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 2,
+        "id": [
+            "6B13A5"
+        ]
+    },
+    {
+        "start_x": 217109,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 14,
+        "id": [
+            "6B13B1"
+        ]
+    },
+    {
+        "start_x": 217126,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 80,
+        "id": [
+            "6B26FB"
+        ]
+    },
+    {
+        "start_x": 217130,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 3,
+        "id": [
+            "6B13A6"
+        ]
+    },
+    {
+        "start_x": 217151,
+        "start_y": -113058,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 87,
+        "id": [
+            "6B2702"
+        ]
+    },
+    {
+        "start_x": 217154,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 4,
+        "id": [
+            "6B13A7"
+        ]
+    },
+    {
+        "start_x": 217174,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 81,
+        "id": [
+            "6B26FC"
+        ]
+    },
+    {
+        "start_x": 217179,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 5,
+        "id": [
+            "6B13A8"
+        ]
+    },
+    {
+        "start_x": 217198,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 82,
+        "id": [
+            "6B26FD"
+        ]
+    },
+    {
+        "start_x": 217209,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 8,
+        "id": [
+            "6B13AB"
+        ]
+    },
+    {
+        "start_x": 217222,
+        "start_y": -113058,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 83,
+        "id": [
+            "6B26FE"
+        ]
+    },
+    {
+        "start_x": 217236,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 17,
+        "id": [
+            "6B1419"
+        ]
+    },
+    {
+        "start_x": 217246,
+        "start_y": -113058,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 88,
+        "id": [
+            "6B274D"
+        ]
+    },
+    {
+        "start_x": 217262,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 18,
+        "id": [
+            "6B142B"
+        ]
+    },
+    {
+        "start_x": 217271,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 84,
+        "id": [
+            "6B26FF"
+        ]
+    },
+    {
+        "start_x": 217289,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 16,
+        "id": [
+            "6B13E9"
+        ]
+    },
+    {
+        "start_x": 217295,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 85,
+        "id": [
+            "6B2700"
+        ]
+    },
+    {
+        "start_x": 217314,
+        "start_y": -112638,
+        "text_content": "NSX63H/TMD/3P",
+        "text_n": 15,
+        "id": [
+            "6B13D7"
+        ]
+    },
+    {
+        "start_x": 217319,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 86,
+        "id": [
+            "6B2701"
+        ]
+    },
+    {
+        "start_x": 217337,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 9,
+        "id": [
+            "6B13AC"
+        ]
+    },
+    {
+        "start_x": 217357,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 6,
+        "id": [
+            "6B13A9"
+        ]
+    },
+    {
+        "start_x": 217385,
+        "start_y": -112638,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 10,
+        "id": [
+            "6B13AD"
+        ]
+    },
+    {
+        "start_x": 217405,
+        "start_y": -112638,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 7,
+        "id": [
+            "6B13AA"
+        ]
+    },
+    {
+        "start_x": 217433,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 11,
+        "id": [
+            "6B13AE"
+        ]
+    },
+    {
+        "start_x": 217457,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 12,
+        "id": [
+            "6B13AF"
+        ]
+    },
+    {
+        "start_x": 217481,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 13,
+        "id": [
+            "6B13B0"
+        ]
+    },
+    {
+        "start_x": 217687,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 99,
+        "id": [
+            "6B2C61"
+        ]
+    },
+    {
+        "start_x": 217704,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 19,
+        "id": [
+            "6B1633"
+        ]
+    },
+    {
+        "start_x": 217712,
+        "start_y": -113058,
+        "text_content": "NSX150H/TMD/3P",
+        "text_n": 107,
+        "id": [
+            "6B2C69"
+        ]
+    },
+    {
+        "start_x": 217729,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 27,
+        "id": [
+            "6B163B"
+        ]
+    },
+    {
+        "start_x": 217735,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 100,
+        "id": [
+            "6B2C62"
+        ]
+    },
+    {
+        "start_x": 217752,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 20,
+        "id": [
+            "6B1634"
+        ]
+    },
+    {
+        "start_x": 217759,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 101,
+        "id": [
+            "6B2C63"
+        ]
+    },
+    {
+        "start_x": 217776,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 21,
+        "id": [
+            "6B1635"
+        ]
+    },
+    {
+        "start_x": 217783,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 102,
+        "id": [
+            "6B2C64"
+        ]
+    },
+    {
+        "start_x": 217799,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 22,
+        "id": [
+            "6B1636"
+        ]
+    },
+    {
+        "start_x": 217808,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 103,
+        "id": [
+            "6B2C65"
+        ]
+    },
+    {
+        "start_x": 217824,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 23,
+        "id": [
+            "6B1637"
+        ]
+    },
+    {
+        "start_x": 217832,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 104,
+        "id": [
+            "6B2C66"
+        ]
+    },
+    {
+        "start_x": 217848,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 24,
+        "id": [
+            "6B1638"
+        ]
+    },
+    {
+        "start_x": 217855,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 105,
+        "id": [
+            "6B2C67"
+        ]
+    },
+    {
+        "start_x": 217872,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 25,
+        "id": [
+            "6B1639"
+        ]
+    },
+    {
+        "start_x": 217879,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 106,
+        "id": [
+            "6B2C68"
+        ]
+    },
+    {
+        "start_x": 217896,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 26,
+        "id": [
+            "6B163A"
+        ]
+    },
+    {
+        "start_x": 217902,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 108,
+        "id": [
+            "6B2DE4"
+        ]
+    },
+    {
+        "start_x": 217919,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 92,
+        "id": [
+            "6B2A49"
+        ]
+    },
+    {
+        "start_x": 217927,
+        "start_y": -113058,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 113,
+        "id": [
+            "6B2DE9"
+        ]
+    },
+    {
+        "start_x": 217944,
+        "start_y": -112638,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 98,
+        "id": [
+            "6B2A4F"
+        ]
+    },
+    {
+        "start_x": 217950,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 109,
+        "id": [
+            "6B2DE5"
+        ]
+    },
+    {
+        "start_x": 217967,
+        "start_y": -112638,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 93,
+        "id": [
+            "6B2A4A"
+        ]
+    },
+    {
+        "start_x": 217974,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 110,
+        "id": [
+            "6B2DE6"
+        ]
+    },
+    {
+        "start_x": 217991,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 94,
+        "id": [
+            "6B2A4B"
+        ]
+    },
+    {
+        "start_x": 217998,
+        "start_y": -113058,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 111,
+        "id": [
+            "6B2DE7"
+        ]
+    },
+    {
+        "start_x": 218015,
+        "start_y": -112638,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 95,
+        "id": [
+            "6B2A4C"
+        ]
+    },
+    {
+        "start_x": 218023,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 114,
+        "id": [
+            "6B2E0D"
+        ]
+    },
+    {
+        "start_x": 218040,
+        "start_y": -112638,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 96,
+        "id": [
+            "6B2A4D"
+        ]
+    },
+    {
+        "start_x": 218047,
+        "start_y": -113058,
+        "text_content": "NSX630H/TMD/3P",
+        "text_n": 112,
+        "id": [
+            "6B2DE8"
+        ]
+    },
+    {
+        "start_x": 218064,
+        "start_y": -112638,
+        "text_content": "NSX500H/TMD/3P",
+        "text_n": 97,
+        "id": [
+            "6B2A4E"
+        ]
+    },
+    {
+        "start_x": 218278,
+        "start_y": -113058,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 115,
+        "id": [
+            "6B304A"
+        ]
+    },
+    {
+        "start_x": 218303,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 123,
+        "id": [
+            "6B3052"
+        ]
+    },
+    {
+        "start_x": 218319,
+        "start_y": -112638,
+        "text_content": "NSX630H/TMD/3P",
+        "text_n": 89,
+        "id": [
+            "6B28EE"
+        ]
+    },
+    {
+        "start_x": 218326,
+        "start_y": -113058,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 116,
+        "id": [
+            "6B304B"
+        ]
+    },
+    {
+        "start_x": 218343,
+        "start_y": -112638,
+        "text_content": "NSX630H/TMD/3P",
+        "text_n": 90,
+        "id": [
+            "6B28F3"
+        ]
+    },
+    {
+        "start_x": 218350,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 117,
+        "id": [
+            "6B304C"
+        ]
+    },
+    {
+        "start_x": 218367,
+        "start_y": -112638,
+        "text_content": "NSX630H/TMD/3P",
+        "text_n": 91,
+        "id": [
+            "6B28F7"
+        ]
+    },
+    {
+        "start_x": 218374,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 118,
+        "id": [
+            "6B304D"
+        ]
+    },
+    {
+        "start_x": 218388,
+        "start_y": -112638,
+        "text_content": "MTZ20H2/3P MTZ5.0X +COM + I/O+\\U+901A\\U+4FE1",
+        "text_n": 28,
+        "id": [
+            "6B16CB"
+        ]
+    },
+    {
+        "start_x": 218399,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 119,
+        "id": [
+            "6B304E"
+        ]
+    },
+    {
+        "start_x": 218422,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 120,
+        "id": [
+            "6B304F"
+        ]
+    },
+    {
+        "start_x": 218424,
+        "start_y": -112638,
+        "text_content": "MTZ40H2/3P MTZ5.0X +COM + I/O+\\U+901A\\U+4FE1",
+        "text_n": 29,
+        "id": [
+            "6B16CD"
+        ]
+    },
+    {
+        "start_x": 218446,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 121,
+        "id": [
+            "6B3050"
+        ]
+    },
+    {
+        "start_x": 218470,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 122,
+        "id": [
+            "6B3051"
+        ]
+    },
+    {
+        "start_x": 218493,
+        "start_y": -113058,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 124,
+        "id": [
+            "6B31D7"
+        ]
+    },
+    {
+        "start_x": 218518,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 130,
+        "id": [
+            "6B31DD"
+        ]
+    },
+    {
+        "start_x": 218541,
+        "start_y": -113058,
+        "text_content": "NSX160H/TMD/3P",
+        "text_n": 125,
+        "id": [
+            "6B31D8"
+        ]
+    },
+    {
+        "start_x": 218565,
+        "start_y": -113058,
+        "text_content": "NSX400H/MIC/3P",
+        "text_n": 126,
+        "id": [
+            "6B31D9"
+        ]
+    },
+    {
+        "start_x": 218571,
+        "start_y": -112638,
+        "text_content": "MTZ40H2/3P MTZ6.0X +COM + I/O+\\U+901A\\U+4FE1",
+        "text_n": 1,
+        "id": [
+            "6B0DAE"
+        ]
+    },
+    {
+        "start_x": 218582,
+        "start_y": -112556,
+        "text_content": "NSX100H/TMD/3P",
+        "text_n": 140,
+        "id": [
+            "6B7F7D"
+        ]
+    },
+    {
+        "start_x": 218589,
+        "start_y": -113058,
+        "text_content": "NSX400H/MIC/3P",
+        "text_n": 127,
+        "id": [
+            "6B31DA"
+        ]
+    },
+    {
+        "start_x": 218614,
+        "start_y": -113058,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 128,
+        "id": [
+            "6B31DB"
+        ]
+    },
+    {
+        "start_x": 218638,
+        "start_y": -113058,
+        "text_content": "NSX250H/TMD/3P",
+        "text_n": 129,
+        "id": [
+            "6B31DC"
+        ]
+    },
+    {
+        "start_x": 218983,
+        "start_y": -113058,
+        "text_content": "NSX100H/MIC5.2E+COM2",
+        "text_n": 131,
+        "id": [
+            "6B4DFD"
+        ]
+    },
+    {
+        "start_x": 219008,
+        "start_y": -113058,
+        "text_content": "NSX100H/MIC5.2E+COM2",
+        "text_n": 132,
+        "id": [
+            "6B4DFE"
+        ]
+    },
+    {
+        "start_x": 219033,
+        "start_y": -113058,
+        "text_content": "NSX100H/MIC5.2E+COM2",
+        "text_n": 133,
+        "id": [
+            "6B4DFF"
+        ]
+    },
+    {
+        "start_x": 219056,
+        "start_y": -113057,
+        "text_content": "NSX160H/MIC5.2E+COM2",
+        "text_n": 134,
+        "id": [
+            "6B4E00"
+        ]
+    },
+    {
+        "start_x": 219081,
+        "start_y": -113058,
+        "text_content": "NSX160H/MIC5.2E+COM2",
+        "text_n": 135,
+        "id": [
+            "6B4E01"
+        ]
+    },
+    {
+        "start_x": 219105,
+        "start_y": -113058,
+        "text_content": "NSX160H/MIC5.2E+COM2",
+        "text_n": 136,
+        "id": [
+            "6B4E02"
+        ]
+    },
+    {
+        "start_x": 219129,
+        "start_y": -113058,
+        "text_content": "NSX100H/MIC5.2E+COM2",
+        "text_n": 137,
+        "id": [
+            "6B4E03"
+        ]
+    },
+    {
+        "start_x": 219154,
+        "start_y": -113058,
+        "text_content": "NSX250H/MIC5.2E+COM2",
+        "text_n": 139,
+        "id": [
+            "6B4E05"
+        ]
+    },
+    {
+        "start_x": 219177,
+        "start_y": -113058,
+        "text_content": "NSX100H/MIC5.2E+COM2",
+        "text_n": 138,
+        "id": [
+            "6B4E04"
+        ]
+    },
+    {
+        "start_x": 219195,
+        "start_y": -113058,
+        "text_content": "MTZ20H2/3P MTZ6.0X +COM + I/O+\\U+901A\\U+4FE1",
+        "text_n": 155,
+        "id": [
+            "6F77A2"
+        ]
+    }
+]
